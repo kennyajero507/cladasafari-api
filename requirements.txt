@@ -1,0 +1,11 @@
+Django>=6.0,<6.1
+django-countries>=8.2,<9
+djangorestframework>=3.16,<4
+django-cors-headers>=4.6,<5
+dj-database-url>=3.0,<4
+psycopg[binary]>=3.2,<4
+python-dotenv>=1.0,<2
+PyJWT>=2.10,<3
+Pillow>=11,<13
+whitenoise>=6.8,<7
+gunicorn>=23,<27
